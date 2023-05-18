@@ -2,7 +2,7 @@
 
 Node.js
 
-Goal: Base rules, Creating console applications.
+Goal: Base rules, Creating console application.
 
 Tasks:
 
